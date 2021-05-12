@@ -1,0 +1,11 @@
+name: census-app
+title:
+username:
+account: nmuhammad
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4120804
+bundleId: 4590479
+url: https://nmuhammad.shinyapps.io/census-app/
+when: 1620832251.08203
+lastSyncTime: 1620832251.08203
